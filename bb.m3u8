@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:93
+#EXTINF:92.008578,
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:D3:D2:04&stream=1330474&extension=ts
+#EXT-X-ENDLIST
