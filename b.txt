@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1,bb
+http://nvpro.tv:80/808080/909090/1590
+#EXTINF:-1,ssport1
+https://bee.fun:2083/ssport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ssport2
+https://bee.fun:2087/ssport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ssport3
+https://bee.fun:2087/ssport3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ssport4
+https://bee.fun:2087/ssport4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ssport5
+https://bee.fun:2087/ssport5/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ssport6
+https://bee.fun:2087/ssport6/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ssport7
+https://bee.fun:2087/ssport7/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AD SPORT 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1,AD PREMUIM 1
+https://bee.fun:2087/ssport8/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AD PREMUIM 2
+https://bee.fun:2087/ssport9/tracks-v1a1/mono.m3u8
+#EXTINF:-1,starzplay
+https://bee.fun:2087/starzplay/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SSC 1
+https://bee.fun:2087/ssc1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SSC 2
+https://bee.fun:2087/ssc2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SSC 5
+https://bee.fun:2087/ssc3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,sscextra1
+https://bee.fun:2087/sscextra1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,sscextra2
+https://bee.fun:2087/sscextra2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,iraqia-sport
+https://bee.fun:2087/iraqia-sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1,salah atallah realmadred
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+web/bitrate_3.m3u8
